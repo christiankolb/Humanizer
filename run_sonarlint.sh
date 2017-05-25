@@ -1,0 +1,1 @@
+/etc/sonarlint/bin/sonarlint
